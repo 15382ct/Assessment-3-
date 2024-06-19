@@ -1,0 +1,9 @@
+body{ 
+    background-color:black;
+    font-family:Arial, Helvetica, sans-senrif;
+    color:rgb(255, 98, 208)
+}
+h1 {
+    text-decoration:underline;
+    font-size: 45pt;
+}
